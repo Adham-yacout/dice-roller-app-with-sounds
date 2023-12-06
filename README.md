@@ -8,7 +8,7 @@ A simple Flutter project that simulates rolling two dice. Press the "Roll" butto
 - Sound effect plays to enhance the rolling experience.
 - Easy-to-use interface with a responsive design.
 
-## Technologies Used
+## Libraries Used
 
 
 - **audioplayers:** A Flutter plugin to play audio files.
