@@ -13,9 +13,6 @@ A simple Flutter project that simulates rolling two dice. Press the "Roll" butto
 - **Flutter:** A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **audioplayers:** A Flutter plugin to play audio files.
 
-## Screenshots
-
-![Screenshot](link_to_screenshot_image)
 
 ## Getting Started
 
