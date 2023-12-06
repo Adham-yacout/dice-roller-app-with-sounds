@@ -1,16 +1,43 @@
-# rollthedice
+# Dice Roller
 
-A new Flutter project.
+A simple Flutter project that simulates rolling two dice. Press the "Roll" button to generate random values for each die, and enjoy the sound effect of the total sum.
+
+## Features
+
+- Two dice are rolled with random values between 1 and 6.
+- Sound effect plays to enhance the rolling experience.
+- Easy-to-use interface with a responsive design.
+
+## Libraries Used
+
+
+- **audioplayers:** A Flutter plugin to play audio files.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the repository:**
 
-A few resources to get you started if this is your first Flutter project:
+    ```bash
+    git clone https://github.com/your-username/dice-roller.git
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Navigate to the project directory:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ```bash
+    cd dice-roller
+    ```
+
+3. **Run the app:**
+
+    ```bash
+    flutter run
+    ```
+
+## Contributions
+
+Contributions are welcome! Feel free to open issues and pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
