@@ -1,7 +1,7 @@
-Dice Roller
+# Dice Roller
 A simple Flutter project that simulates rolling two dice. Press the "Roll" button to generate random values for each die, and enjoy the sound effect of the total sum.
 
-Features
+# Features
 Two dice are rolled with random values between 1 and 6.
 Sound effect plays to enhance the rolling experience.
 Easy-to-use interface with a responsive design.
